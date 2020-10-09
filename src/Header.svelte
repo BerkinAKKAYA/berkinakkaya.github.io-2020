@@ -51,7 +51,6 @@
         pointer-events: none;
     }
 
-
     header {
         background-position: center;
         background-size: cover;

@@ -5,7 +5,7 @@
     import Contact from './Contact.svelte';
 </script>
 
-<Header />
+<Header/>
 <Info />
 <Projects />
 <Contact />
