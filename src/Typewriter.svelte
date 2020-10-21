@@ -1,5 +1,9 @@
 <script>
-    // https://github.com/henriquehbr/svelte-typewriter/
+/*
+	@henriquehbr / svelte-typewriter
+	
+	https://github.com/henriquehbr/svelte-typewriter/
+*/
 
 	import { onMount, createEventDispatcher, onDestroy } from 'svelte'
 	export let interval = 30
