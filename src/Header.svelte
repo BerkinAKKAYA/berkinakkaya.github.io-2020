@@ -28,7 +28,8 @@
     <nav>
         <a href="#about">ABOUT</a>
         <a href="#projects">PROJECTS</a>
-        <a href="#contact">CONTACT</a>
+        <!-- <a href="#contact">CONTACT</a> -->
+        <a href="https://berkinakkaya.medium.com" target="_blank">BLOG</a>
     </nav>
 
     <Typewriter scramble={15} interval={10}>
